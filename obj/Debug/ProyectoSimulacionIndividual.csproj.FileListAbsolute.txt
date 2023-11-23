@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\bin\Debug\ProyectoSimulacionIndividual.exe.config
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\bin\Debug\ProyectoSimulacionIndividual.exe
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\bin\Debug\ProyectoSimulacionIndividual.pdb
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.Principal.resources
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.Properties.Resources.resources
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.exe
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.pdb
+C:\Users\Alex\source\repos\ProyectoSimulacionIndividual\ProyectoSimulacionIndividual\obj\Debug\ProyectoSimulacionIndividual.Form1.resources
